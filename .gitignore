@@ -77,3 +77,6 @@ npm-debug.log
 npm-debug.log/*
 package-lock.json
 response.txt
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
